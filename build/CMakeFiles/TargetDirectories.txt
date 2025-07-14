@@ -1,0 +1,11 @@
+/home/dj-bob/qwe/build/CMakeFiles/edit_cache.dir
+/home/dj-bob/qwe/build/CMakeFiles/rebuild_cache.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/home/dj-bob/qwe/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
+/home/dj-bob/qwe/build/calculator/CMakeFiles/test_calculator.dir
+/home/dj-bob/qwe/build/calculator/CMakeFiles/edit_cache.dir
+/home/dj-bob/qwe/build/calculator/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dj-bob/qwe/build/_deps/catch2-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

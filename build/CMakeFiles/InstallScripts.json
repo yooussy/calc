@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dj-bob/qwe/build/cmake_install.cmake",
+		"/home/dj-bob/qwe/build/_deps/catch2-build/cmake_install.cmake",
+		"/home/dj-bob/qwe/build/_deps/catch2-build/src/cmake_install.cmake",
+		"/home/dj-bob/qwe/build/calculator/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
